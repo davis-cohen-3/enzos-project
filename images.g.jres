@@ -1,0 +1,12 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAACqAAAAAAAAAKoAAAAAoAoAqgAAqgCgqv///6+qAAD6/////woAAP/y////DwAA//L/8v8PAAD/8vIv/6+qqv8v/y//r6qq////L/8PAAD/L/8v/w8AAP/y8i//DwAA+vL/8v8KAKD68v//r6oAoAoAqgAAqgAKAACqAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Spike"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
